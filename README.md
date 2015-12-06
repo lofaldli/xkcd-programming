@@ -1,2 +1,16 @@
 # xkcd-programming
-programming related xkcd comics
+
+- [Real Programmers](https://xkcd.com/378/)
+- [Genetic Algorithms](https://xkcd.com/534/)
+- [goto](https://xkcd.com/292/)
+- [Python](https://xkcd.com/353/)
+- [Exploits of a Mom](https://xkcd.com/327/)
+- [Sandwich](https://xkcd.com/149/)
+- [Random Number](https://xkcd.com/221/)
+- [Compiling](https://xkcd.com/303/)
+- [Ballmer Peak](https://xkcd.com/323/)
+- [Regular Expressions](https://xkcd.com/208/)
+- [Lisp Cycles](https://xkcd.com/297/)
+- [Lisp](https://xkcd.com/224/)
+- [Pointers](https://xkcd.com/138/)
+- [Estimation](https://xkcd.com/612/)
